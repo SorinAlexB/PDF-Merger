@@ -18,4 +18,4 @@ python3 PDF_Merger.py pdf1.pdf pdf2.pdf pdf3.pdf
 ```
 
 <br/>
-The output of the script will be a PDFs file named "merged-file.pdf" where all of your PDFs were merged.
+The output of the script will be a PDF file named "merged-file.pdf" where all of your PDFs were merged.
